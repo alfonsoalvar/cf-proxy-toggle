@@ -1,0 +1,5 @@
+# Configuración local y secretos
+.env
+
+# Archivos de registro / logs
+*.log
