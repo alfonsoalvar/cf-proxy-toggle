@@ -16,7 +16,7 @@ Soporta **múltiples dominios y múltiples zonas DNS** simultáneamente con reso
 
 En sistemas basados en Debian/Ubuntu:
 ```bash
-sudo apt update && sudo apt install -y curl jq
+sudo apt update && sudo apt install -y curl jq cron
 ```
 
 ---
